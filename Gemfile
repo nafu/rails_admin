@@ -51,4 +51,6 @@ group :test do
   end
 end
 
+gem 'rack-pjax', git: 'git://github.com/nafu/rack-pjax.git', branch: 'master'
+
 gemspec
